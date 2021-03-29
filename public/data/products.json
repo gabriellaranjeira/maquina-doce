@@ -1,0 +1,24 @@
+[
+	{
+		"id": 1,
+		"name": "Doce A",
+		"price": 6,
+		"count": 10,
+		"image": "https://i.revistaencontro.com.br/sGakGHi_cIsoE-xnzkZD9J9iMVk=/332x0/smart/imgsapp.revistaencontro.com.br/app/noticia_152466458717/2016/04/04/156510/20160404084712693226i.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Doce B",
+		"price": 7,
+		"count": 10,
+		"image": "https://media-cdn.tripadvisor.com/media/photo-s/16/90/65/c6/doces-especiais.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Doce C",
+		"price": 8,
+		"count": 10,
+		"image": "https://img.itdg.com.br/tdg/images/blog/uploads/2020/03/Receitas-rapidas-de-doce.jpg"
+	}
+	
+]
